@@ -13,4 +13,10 @@ package com.ttxp;
  * @version V1.0.0
  */
 public class Hello {
+
+    private String hello = "hello jenkins";
+
+    public String getHello() {
+        return hello;
+    }
 }
