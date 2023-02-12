@@ -14,7 +14,7 @@ package com.ttxp;
  */
 public class Hello {
 
-    private String hello = "hello jenkins";
+    private String hello = "hello jenkins_01";
 
     public String getHello() {
         return hello;
