@@ -14,7 +14,7 @@ package com.ttxp;
  */
 public class Hello {
 
-    private String hello = "hello jenkins_01_deploy121312";
+    private String hello = "hello jenkins_01_deploy_cancelcrumb";
 
     public String getHello() {
         return hello;
