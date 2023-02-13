@@ -7,12 +7,16 @@
     <packaging>war</packaging>
 
     <groupId>com.ttxp</groupId>
-    <artifactId>jenkins_01</artifactId>
+    <artifactId>jenkins</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
     </properties>
+
+    <build>
+        <finalName>jenkins</finalName>
+    </build>
 
 </project>
